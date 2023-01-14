@@ -39,8 +39,8 @@ These gifs are stoed in ```visualizations``` folder.
 [//]: # (</p>)
 
 
-You can visualize vessel thickness in ParaView by applying a Tube filter, and selecting node radius as Vary Radius.
+<!-- You can visualize vessel thickness in ParaView by applying a Tube filter, and selecting node radius as Vary Radius.
 Then finally choose coloring based on different features
 
-![](plots/paraview_tube.png)
+![](plots/paraview_tube.png) -->
 
