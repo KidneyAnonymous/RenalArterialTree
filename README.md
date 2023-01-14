@@ -1,6 +1,6 @@
 # Kidney Vascular Tree
 
-* Here we present more results from our paper in this GitHub page.
+* Here we present more results from our paper in this GitHub page (Please give the page few seconds to load if the gifs do not show immediately to you).
 
 * The source code for the paper is available to the reviewers upon request and will be made publicly available upon acceptance with the GitHub repo under an open-source license. 
 
