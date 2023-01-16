@@ -12,17 +12,17 @@ Here we show some animations of our generated renal arterial tree in ParaView.
 Different gifs represent the tubes are colored by different properties, e.g., radius, flow, pressure.
 These gifs are stoed in ```visualizations``` folder.
 
-### Colored by radius
+### Colored by radius (in $\mu m$)
  ![](visualizations/radius1.gif) 
-### Colored by flow
+### Colored by flow (in $\mu m^3/s$)
  ![](visualizations/flow.gif) 
-### Colored by pressure
+### Colored by pressure (in mmHg)
  ![](visualizations/pressure.gif) 
 
 ## The flow and pressure coloring is quite sensitive to outliers. Therefore, we also rescale them by manually setting a smaller range 
-### Colored by rescaled flow
+### Colored by rescaled flow (in $\mu m^3/s$)
  ![](visualizations/flow_rescaled.gif) 
-### Colored by rescaled pressure
+### Colored by rescaled pressure (in mmHg)
  ![](visualizations/pressure_rescaled.gif) 
 
 
